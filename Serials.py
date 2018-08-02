@@ -1,4 +1,11 @@
 series_ids = ['EMISS.CO2-C-CLEIB-CA.A',
               'EMISS.CO2-TOTV-TT-TO-CA.A',
               'EMISS.CO2-TOTV-TT-CO-CA.A',
-              'EMISS.CO2-TOTV-TT-NG-CA.A']
+              'EMISS.CO2-TOTV-TT-NG-CA.A',
+              'SEDS.CLTCB.CA.A',
+              'SEDS.FFTCB.CA.A',
+              'SEDS.NUETB.CA.A',
+              'SEDS.TETCB.CA.A',
+              'SEDS.SOTCB.CA.A',
+              'SEDS.WYTCB.CA.A',
+              'SEDS.RETCB.CA.A']
