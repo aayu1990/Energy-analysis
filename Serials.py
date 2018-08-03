@@ -32,7 +32,7 @@ series_ids = ['EMISS.CO2-C-CLEIB-CA.A',
               'STEO.SOCHCAP_US.A',#large scale solar-commercial and industrial sectors
               'STEO.WNCHCAP_US.A',#wind-commercial and industrial sectors
               'TOTAL.TETCEUS.A',#total CO2 emissions
-              'TOTAL.TERCEUS.A'#resedential,commercial,Industrial, transportation,electric power,biomass sectorwise CO2 emission
+              'TOTAL.TERCEUS.A',#resedential,commercial,Industrial, transportation,electric power,biomass sectorwise CO2 emission
               'STEO.REECBUS.A',#Electric power consumption of renewable energy
               'STEO.RECCBUS.A',#commercial consumption of renewable energy
               'STEO.REICBUS.A',#industrial consumption of renewable energy
