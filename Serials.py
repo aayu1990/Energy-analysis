@@ -18,8 +18,13 @@ series_ids = [
               'STEO.SOCHCAP_US.A',#large scale solar-commercial and industrial sectors
               'STEO.WNCHCAP_US.A',#wind-commercial and industrial sectors
               'TOTAL.TETCEUS.A',#total CO2 emissions
+<<<<<<< HEAD
               'TOTAL.TERCEUS.A'#resedential,commercial,Industrial, transportation,electric power,biomass sectorwise CO2 emission
               'STEO.REEIBUS.A',#Electric power consumption of renewable energy
+=======
+              'TOTAL.TERCEUS.A',#resedential,commercial,Industrial, transportation,electric power,biomass sectorwise CO2 emission
+              'STEO.REECBUS.A',#Electric power consumption of renewable energy
+>>>>>>> 8f1b3b272248405b9d4263a362ccb6c3877a9a46
               'STEO.RECCBUS.A',#commercial consumption of renewable energy
               'STEO.REICBUS.A',#industrial consumption of renewable energy
               'STEO.RERCBUS.A',#resedential consumption of renewable energy
