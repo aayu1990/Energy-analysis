@@ -19,11 +19,12 @@ series_ids = [
               'STEO.WNCHCAP_US.A',#wind-commercial and industrial sectors
               'TOTAL.TETCEUS.A',#total CO2 emissions
               'TOTAL.TERCEUS.A'#resedential,commercial,Industrial, transportation,electric power,biomass sectorwise CO2 emission
-              'STEO.REECBUS.A',#Electric power consumption of renewable energy
+              'STEO.REEIBUS.A',#Electric power consumption of renewable energy
               'STEO.RECCBUS.A',#commercial consumption of renewable energy
               'STEO.REICBUS.A',#industrial consumption of renewable energy
               'STEO.RERCBUS.A',#resedential consumption of renewable energy
               'STEO.REACBUS.A',#transportation consumption of renewable energy 
               'STEO.RETCBUS.A']#total consumption of renewable energy by all sectors,annual
+                
 
         
